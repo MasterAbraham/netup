@@ -1,0 +1,12 @@
+footer{
+	margin-top:50px;
+	background-image: linear-gradient(rgb(240,240,240),#74cf7a);
+	height: 75px;
+	position: absolute;
+  bottom: 0;
+  width: 100%;
+}
+.copy{
+	padding-top: 38px;
+	padding-left: 10px;
+}
