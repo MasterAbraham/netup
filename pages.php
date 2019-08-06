@@ -12,7 +12,6 @@ $pages = array(
     "Topic3" => "topic3.php"
 	),
 	"Information" => array(
-	"Credits" => "credits.php",
 	"Features" => "features.php",
     "About" => "about.php"
 	),
